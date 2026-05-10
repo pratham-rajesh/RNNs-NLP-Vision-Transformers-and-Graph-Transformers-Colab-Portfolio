@@ -19,7 +19,7 @@ PASTE_YOUTUBE_LINK_HERE
 ## NLP
 
 **Colab Link:**  
-https://colab.research.google.com/drive/129nxLYowmTdGpQGziABOYs7FpRqQmNsF
+https://colab.research.google.com/drive/153au5mvHEbTETFGnKpMCcXAoA3R32MUk?usp=sharing
 
 **YouTube Link:**  
 PASTE_YOUTUBE_LINK_HERE
@@ -29,7 +29,7 @@ PASTE_YOUTUBE_LINK_HERE
 ## Vision Transformers
 
 **Colab Link:**  
-https://colab.research.google.com/drive/1IQp0RU4w7DXRKlLITyYgYFLMntFvrvdx
+https://colab.research.google.com/drive/1afQ_IsRsfBgY7ykzHTli00vRclsVJgbg?usp=sharing
 
 **YouTube Link:**  
 PASTE_YOUTUBE_LINK_HERE
@@ -39,7 +39,7 @@ PASTE_YOUTUBE_LINK_HERE
 ## Graph Transformers
 
 **Colab Link:**  
-https://colab.research.google.com/drive/1mOImVS1KcjpIFESouEemLeiN-Y-l4Whj
+https://colab.research.google.com/drive/1brVHMwhjsMhXAEIo74zLqKzTiXem2-9O?usp=sharing
 
 **YouTube Link:**  
 PASTE_YOUTUBE_LINK_HERE
