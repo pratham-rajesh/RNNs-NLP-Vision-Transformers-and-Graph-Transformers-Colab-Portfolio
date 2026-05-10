@@ -9,7 +9,7 @@ This repository contains executed Google Colab notebooks with outputs and corres
 ## RNN LSTM
 
 **Colab Link:**  
-https://colab.research.google.com/drive/1uGPf1pUz_P0JIlpBqcPOJyHikmvO8uV2
+https://colab.research.google.com/drive/1IKpvWQShKfF6waUKrYMV70pQ3Tf57zGU
 
 **YouTube Link:**  
 PASTE_YOUTUBE_LINK_HERE
