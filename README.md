@@ -2,117 +2,60 @@
 
 ## Assignment Overview
 
-This repository contains executed Google Colab notebooks with outputs and corresponding YouTube walkthrough videos. Each video explains the notebook step-by-step, covering code blocks, model logic, and outputs.
+This repository contains executed Google Colab notebooks with outputs and corresponding YouTube walkthrough videos. Each video explains the notebook step by step, covering the code blocks, model logic, and outputs.
 
 ---
 
-## Repository Structure
+## RNN LSTM
 
-```text
-.
-├── README.md
-├── notebooks/
-│   ├── rnn_lstm/
-│   │   └── rnn_lstm_executed.ipynb
-│   ├── nlp/
-│   │   └── nlp_executed.ipynb
-│   ├── vision_transformers/
-│   │   └── vision_transformers_executed.ipynb
-│   └── graph_transformers/
-│       └── graph_transformers_executed.ipynb
-```
+**Colab Link:**  
+https://colab.research.google.com/drive/1uGPf1pUz_P0JIlpBqcPOJyHikmvO8uV2
+
+**YouTube Link:**  
+PASTE_YOUTUBE_LINK_HERE
 
 ---
 
-## Colab Notebooks and Video Explanations
+## NLP
 
-| Topic | Original Colab | Executed Notebook | YouTube Explanation |
-|------|---------------|------------------|-------------------|
-| RNN LSTM | https://colab.research.google.com/drive/1uGPf1pUz_P0JIlpBqcPOJyHikmvO8uV2 | ./notebooks/rnn_lstm/rnn_lstm_executed.ipynb | PASTE_YOUTUBE_LINK |
-| NLP | https://colab.research.google.com/drive/129nxLYowmTdGpQGziABOYs7FpRqQmNsF | ./notebooks/nlp/nlp_executed.ipynb | PASTE_YOUTUBE_LINK |
-| Vision Transformers | https://colab.research.google.com/drive/1IQp0RU4w7DXRKlLITyYgYFLMntFvrvdx | ./notebooks/vision_transformers/vision_transformers_executed.ipynb | PASTE_YOUTUBE_LINK |
-| Graph Transformers | https://colab.research.google.com/drive/1mOImVS1KcjpIFESouEemLeiN-Y-l4Whj | ./notebooks/graph_transformers/graph_transformers_executed.ipynb | PASTE_YOUTUBE_LINK |
+**Colab Link:**  
+https://colab.research.google.com/drive/129nxLYowmTdGpQGziABOYs7FpRqQmNsF
 
----
-
-## 1. RNN LSTM Colab
-
-### Description
-This notebook introduces Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) models for handling sequential data.
-
-### Key Concepts
-- Sequential data
-- RNN architecture
-- Vanishing gradient problem
-- LSTM gates (input, forget, output)
-- Training and predictions
-
-### Video
-YouTube Link: PASTE_YOUTUBE_LINK
+**YouTube Link:**  
+PASTE_YOUTUBE_LINK_HERE
 
 ---
 
-## 2. NLP Colab
+## Vision Transformers
 
-### Description
-This notebook covers Natural Language Processing concepts such as text preprocessing, tokenization, embeddings, and model training.
+**Colab Link:**  
+https://colab.research.google.com/drive/1IQp0RU4w7DXRKlLITyYgYFLMntFvrvdx
 
-### Key Concepts
-- Text preprocessing
-- Tokenization
-- Vocabulary building
-- Embeddings
-- NLP model training
-- Output interpretation
-
-### Video
-YouTube Link: PASTE_YOUTUBE_LINK
+**YouTube Link:**  
+PASTE_YOUTUBE_LINK_HERE
 
 ---
 
-## 3. Vision Transformers Colab
+## Graph Transformers
 
-### Description
-This notebook explains how Vision Transformers process images by splitting them into patches and applying transformer-based attention.
+**Colab Link:**  
+https://colab.research.google.com/drive/1mOImVS1KcjpIFESouEemLeiN-Y-l4Whj
 
-### Key Concepts
-- Image patches
-- Patch embeddings
-- Positional encoding
-- Self-attention
-- Transformer encoder
-- Image classification
-
-### Video
-YouTube Link: PASTE_YOUTUBE_LINK
-
----
-
-## 4. Graph Transformers Colab
-
-### Description
-This notebook explores graph transformers for graph-structured data and attention-based learning over nodes and edges.
-
-### Key Concepts
-- Graph representation
-- Nodes and edges
-- Attention on graphs
-- Transformer layers
-- Graph learning tasks
-- Model outputs
-
-### Video
-YouTube Link: PASTE_YOUTUBE_LINK
+**YouTube Link:**  
+PASTE_YOUTUBE_LINK_HERE
 
 ---
 
 ## Submission Checklist
 
 - [ ] Copy each Colab into personal Google Drive
-- [ ] Execute each notebook fully
-- [ ] Save notebooks with outputs visible
+- [ ] Execute every notebook fully
+- [ ] Save notebooks with all outputs visible
 - [ ] Upload executed notebooks to GitHub
-- [ ] Set sharing permissions to public
-- [ ] Record one YouTube video per notebook
+- [ ] Set Colab sharing permissions to public/world-viewable
+- [ ] Record one YouTube video per Colab
 - [ ] Add YouTube links to this README
-- [ ] Submit GitHub repository URL
+- [ ] Verify all GitHub notebook links work
+- [ ] Submit the GitHub repository URL
+
+---
