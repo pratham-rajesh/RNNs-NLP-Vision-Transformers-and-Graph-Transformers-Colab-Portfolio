@@ -12,7 +12,7 @@ This repository contains executed Google Colab notebooks with outputs and corres
 https://colab.research.google.com/drive/1IKpvWQShKfF6waUKrYMV70pQ3Tf57zGU
 
 **YouTube Link:**  
-PASTE_YOUTUBE_LINK_HERE
+https://youtu.be/YG98hlxYRds
 
 ---
 
