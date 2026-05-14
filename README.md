@@ -22,7 +22,7 @@ https://youtu.be/YG98hlxYRds
 https://colab.research.google.com/drive/153au5mvHEbTETFGnKpMCcXAoA3R32MUk?usp=sharing
 
 **YouTube Link:**  
-PASTE_YOUTUBE_LINK_HERE
+https://youtu.be/-l31PlDJ4uk
 
 ---
 
@@ -32,7 +32,7 @@ PASTE_YOUTUBE_LINK_HERE
 https://colab.research.google.com/drive/1afQ_IsRsfBgY7ykzHTli00vRclsVJgbg?usp=sharing
 
 **YouTube Link:**  
-PASTE_YOUTUBE_LINK_HERE
+https://youtu.be/YW5AlFHDInA
 
 ---
 
@@ -42,7 +42,7 @@ PASTE_YOUTUBE_LINK_HERE
 https://colab.research.google.com/drive/1brVHMwhjsMhXAEIo74zLqKzTiXem2-9O?usp=sharing
 
 **YouTube Link:**  
-PASTE_YOUTUBE_LINK_HERE
+https://youtu.be/tCjXRhxoxx8
 
 ---
 
